@@ -1,0 +1,2 @@
+mem cache image processing
+statisical determination on likelyhood of dupes
